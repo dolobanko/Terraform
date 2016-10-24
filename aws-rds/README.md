@@ -61,4 +61,6 @@ Therefore, you will need to set `var.vpc_id` variable within your default VPC ID
 Options can be extended by adding appropriate `AWS_DB_INSTANCE` resource's parameters.
 
 ## Output example ##
-![terraform](https://cloud.githubusercontent.com/assets/16046393/19663641/83898ece-9a45-11e6-813a-92719e46e1c8.png)
+
+![terraform1](https://cloud.githubusercontent.com/assets/16046393/19663702/cc2ae77c-9a45-11e6-955d-e15df6f67de3.png)
+
