@@ -59,3 +59,5 @@ To use Multi-AZ deployment override `multi_az` variable with value set in `true`
 This script uses `subnet_1_cidr` and `subnet_2_cidr` variables defined as subnets of defautl VPC.  
 Therefore, you will need to set `var.vpc_id` variable within your default VPC ID or modify subnet_*_cidr variables.  
 Options can be extended by adding appropriate `AWS_DB_INSTANCE` resource's parameters.
+
+![terraform](https://cloud.githubusercontent.com/assets/16046393/19663641/83898ece-9a45-11e6-813a-92719e46e1c8.png)
